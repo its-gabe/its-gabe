@@ -8,7 +8,6 @@
 ![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-gabe&show_icons=true&theme=dracula)
 
 
-
 ## Técnologias que mais utilizo
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-gabe&hide_progress=false&theme=dracula)
