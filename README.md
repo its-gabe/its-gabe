@@ -12,4 +12,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-gabe&hide_progress=false&theme=dracula)
 
-Atualmente estudando para entrar na carreira de cientista de dados
+Atualmente estudando para entrar na carreira de dados
