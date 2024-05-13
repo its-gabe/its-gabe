@@ -1,4 +1,4 @@
-### 👋 Bem-vindo ao meu perfil! Eu sou o João Gabriel. Estou em busca do meu primeiro emprego na área de dados ou IA. 🤖 Constantemente realizando cursos e bootcamps, o progresso está sendo adicionado ao decorrer dos cursos aos meus repositórios. 📚 Abaixo, você pode acessar as principais plataformas que utilizo diariamente e meu currículo.
+### 👋 Bem-vindo ao meu perfil! Sou o João Gabriel, atuando na área de dados. Sempre tenha uma meta profissional, sigo o ditado de Elbert Hubbard: "Uma máquina pode fazer o trabalho de 50 homens comuns, mas nenhuma máquina pode fazer o trabalho de um homem extraordinário". Nunca se contente com o básico; busque sempre ser o melhor que você pode ser!
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itz.gabe)
 [![Curriculum](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://its-gabe.github.io/cv/)
