@@ -40,6 +40,6 @@ Atuo na área de dados e desenvolvimento com interesse em transformar informaç�
 [Currículo](https://its-gabe.github.io/cv/) ·
 <!-- [DIO](https://www.dio.me/users/j_gabrielmoreiraalves) -->
 
-## Estatísticas
+<!-- ## Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gabe&show_icons=true&theme=transparent&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gabe&show_icons=true&theme=transparent&hide_border=true) -->
