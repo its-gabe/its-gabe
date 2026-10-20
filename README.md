@@ -37,7 +37,7 @@ Atuo na área de dados e desenvolvimento com interesse em transformar informaç�
 ## Contato
 
 [LinkedIn](https://www.linkedin.com/in/joão-gabriel-alves-6039871b9) ·
-[Currículo](https://its-gabe.github.io/cv/) ·
+[Portfolio](https://its-gabe.github.io/portfolio-jg/) ·
 <!-- [DIO](https://www.dio.me/users/j_gabrielmoreiraalves) -->
 
 <!-- ## Estatísticas
