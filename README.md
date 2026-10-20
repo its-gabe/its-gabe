@@ -1,14 +1,45 @@
-### 👋 Bem-vindo ao meu perfil! Sou o João Gabriel, atuando na área de dados. 
-Sempre tenha uma meta profissional, sigo o ditado de Elbert Hubbard: "Uma máquina pode fazer o trabalho de 50 homens comuns, mas nenhuma máquina pode fazer o trabalho de um homem extraordinário". Nunca se contente com o básico; busque sempre ser o melhor que você pode ser!
+# João Gabriel Alves
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/itz.gabe)
-[![Curriculum](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white)](https://its-gabe.github.io/cv/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-gabriel-alves-6039871b9)
-[![DIO-Profile](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)](https://www.dio.me/users/j_gabrielmoreiraalves)
+### Dados | Python | Engenharia de Dados | Desenvolvimento web
 
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-gabe&show_icons=true&theme=dracula)
+Atuo na área de dados e desenvolvimento com interesse em transformar informações em análises claras, automações e soluções que apoiem decisões. Atualmente, estou aprofundando meus conhecimentos em **[análise de dados / engenharia de dados / ML]** e desenvolvendo projetos práticos com **machine learning, desenvolvimento da plataforma/software e análise desses dados coletados ou extraidos**.
 
+## Em foco
 
-## Técnologias que mais utilizo
+- Desenvolvimento de soluções com Python
+- Tratamento, análise e visualização de dados
+- Automação de tarefas e processos
+- Aprendizado contínuo em **[SQL, cloud, engenharia de dados...]**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=its-gabe&hide_progress=false&theme=dracula)
+<!-- ## Projetos em destaque
+
+- **[Nome do projeto]** — [explique qual problema o projeto resolve e qual foi o resultado].
+  `Python` `Pandas` `SQL` · [Repositório](link)
+
+- **[Nome do projeto]** — [descreva brevemente sua contribuição e o principal aprendizado].
+  `Python` `[outras tecnologias]` · [Repositório](link)
+
+- **[Nome do projeto]** — [inclua um projeto relacionado à área de dados ou automação].
+  `[tecnologias]` · [Repositório](link) -->
+
+## Tecnologias
+
+**Linguagens:** Python, TypeScript   
+**Dados:** Pandas, SQL, MySQL, Postgres, Scikit-learn...  
+**Ferramentas:** Git, GitHub, Jupyter, Docker, Apache Airflow...  
+<!-- **Cloud:** [AWS, Azure, GCP — se aplicável] -->
+
+<!-- ## Formação e certificações
+
+- [Nome da formação ou certificação](link)
+- [Nome da formação ou certificação](link) -->
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/joão-gabriel-alves-6039871b9) ·
+[Currículo](https://its-gabe.github.io/cv/) ·
+<!-- [DIO](https://www.dio.me/users/j_gabrielmoreiraalves) -->
+
+## Estatísticas
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=its-gabe&show_icons=true&theme=transparent&hide_border=true)
